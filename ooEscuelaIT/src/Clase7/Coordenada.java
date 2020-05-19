@@ -1,7 +1,6 @@
 package Clase7;
 
 public class Coordenada {
-	dsd4
 	
 	public int getFila() {
 		// TODO Auto-generated method stub
